@@ -9,7 +9,7 @@ a:focus, a:hover, a.list-group-item-action:focus, a.list-group-item-action:hover
     color: #bd73a1;
 	background-color: transparent;
 }
-h2 {
+h2, h4 {
 	color: #821c45;
 }
 .bg-black {
@@ -38,6 +38,7 @@ h2 {
 #mainNav .navbar-brand {
     color: #161616;
     font-weight: 700;
+	font-size: 1rem;
 }
 #mainNav .navbar-brand:hover {
     color: #821c45;
@@ -72,6 +73,7 @@ h2 {
 }
 #mainNav .navbar-brand {
     color: #161616;
+	font-size: 1.25rem;
 }
 #mainNav .nav-link.active {
     color: #ffffff; /*#161616;*/
